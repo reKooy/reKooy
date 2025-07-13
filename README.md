@@ -19,7 +19,7 @@ I study through books and some classes on YouTube.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=reKooy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
@@ -27,7 +27,7 @@ I study through books and some classes on YouTube.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100"  
+      height="200"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=reKooy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
